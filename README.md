@@ -12,7 +12,7 @@ function details() {
 
 🖥️ I’m currently studying as a Full Stack Developer at @Develhope.
 <br/>
-🌱 and also trying to improve my **Front-End Skills**
+🌱 And also trying to improve my **Back-End Skills**
 <br/>
 💬 Ask me about **React**
 <br/>
