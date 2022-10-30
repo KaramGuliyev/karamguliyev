@@ -10,7 +10,7 @@ function details() {
 
 <div align="center">
 
-🖥️ I’m currently developing myself by **self-studying**.
+🖥️ I’m currently studying as a Full Stack Developer at @Develhope.
 <br/>
 🌱 and also trying to improve my **Front-End Skills**
 <br/>
