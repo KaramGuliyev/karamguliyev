@@ -9,16 +9,6 @@ function details() {
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
 
 <div align="center">
-
-🖥️ I’m currently studying as a Full Stack Developer at @Develhope.
-<br/>
-🌱 And also trying to improve my **Back-End Skills**
-<br/>
-💬 Ask me about **React**
-<br/>
-📧 karamguliyev10@gmail.com
-<br/>
-<p>
 <img alt="Visual Studio Code" width="30" style="margin:0;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="HTML5" width="30" style="margin:0;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="30" style="margin:0;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
