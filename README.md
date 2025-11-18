@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-```javascript
-function details() {
-  return "My name is Karam Guliyev";
-}
-```
-
-<div width="100%" align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+```ts
+export const karam = {
+  name: "Karam Guliyev",
+  roles: ["Full-Stack Developer", "Product Manager", "Product Owner"],
+  focus: ["TypeScript", "Product Engineering", "System Design"],
+};
